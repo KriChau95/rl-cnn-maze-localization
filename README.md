@@ -88,8 +88,11 @@ Three bot strategies (π₀, π₁, π₂) and an iterative RL approach ($\pi_k$
 
 ---
 
-## Detailed Report
+## Detailed Technical Report
 
-[RL and CNN-Based Approaches for Maze Localization.pdf](https://github.com/user-attachments/files/21323522/RL.and.CNN-Based.Approaches.for.Maze.Localization.pdf)
+<a href="./RL_and_CNN-Based_Approaches_for_Maze_Localization.pdf">
+  <img src="./paper_3.png" width="300">
+</a>
 
+[Paper: RL and CNN-Based Approaches for Maze Localization](RL_and_CNN-Based_Approaches_for_Maze_Localization.pdf)
 
