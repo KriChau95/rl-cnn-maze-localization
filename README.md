@@ -90,9 +90,9 @@ Three bot strategies (π₀, π₁, π₂) and an iterative RL approach ($\pi_k$
 
 ## Detailed Technical Report
 
-<a href="./Robust_Binary_Audio_Classification_with_SNNs.pdf">
+<a href="./RL_and_CNN_Based_Approaches_for_Maze_Localization.pdf">
   <img src="./paper_3.png" width="300">
-</a> 
+</a>
 
-[Paper: Robust Binary Audio Classification with SNNs](Robust_Binary_Audio_Classification_with_SNNs.pdf)
+[Paper: RL and CNN Based Approaches for Maze Localization](RL_and_CNN_Based_Approaches_for_Maze_Localization.pdf)
 
