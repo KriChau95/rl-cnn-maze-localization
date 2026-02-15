@@ -38,7 +38,7 @@ Three bot strategies (π₀, π₁, π₂) and an iterative RL approach ($\pi_k$
   Trains a CNN ($Ĉ*_0$) to predict moves to localization, minimizing a Bellman-like loss.  
   Defines π₁ as a greedy policy based on $Ĉ*_0$.  
   Iteratively generates new data with the latest policy, trains a new model, and defines next policies (π₂, π₃, ..., $\pi_k$) until convergence.
-- **Performance**: Shows incremental improvements, especially for |L| ranges of 50–200, 300–400, and 500+, reflecting realistic localization scenarios.
+- **Performance**: Despite being unable to fully implement this, we would expect incremental improvement until convergence.
 
 <img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/fa002820-1083-4863-b222-6ff96c1650a8" />
 <br>
